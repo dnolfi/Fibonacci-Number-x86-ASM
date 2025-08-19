@@ -6,4 +6,4 @@ To get the ouput file showing the final result, enter:
 
 source fibonacci_cmds.txt
 
-in DDD.
+in the DDD terminal.
